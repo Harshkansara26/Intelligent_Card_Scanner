@@ -27,10 +27,3 @@ Using AWS services like AWS Textract and AWS Medical Comprehend to implement AI/
 ## Architecture Diagram
 
 ![Architecture Diagram](https://user-images.githubusercontent.com/77790306/182468744-fb9950e8-1dfd-47a2-a9a5-7e1a024804f8.png)
-
-## Developers
-
-- Abhi Patel
-- Jainil Patel
-- Jiya Kelawala
-- Krunal Parmar
